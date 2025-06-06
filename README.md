@@ -1,1 +1,10 @@
-# computer_vision
+# Computer Vision Labs
+                                                    
+| Lab Title                                       | Grade         |
+|------------------------------------------------|---------------|
+| Lab1: Feature Extraction and Optical Flow      | 100.00/100.00 |
+| Lab2: Deep Learning for Computer Vision        | 100.00/100.00 |
+| Lab3: Object Recognition                       | 100.00/100.00 |
+| Lab4: Image Segmentation                       | 100.00/100.00 |
+| Lab5: Tracking                                 | 100.00/100.00 |
+| Lab6: Structure from Motion & Model Fitting    | 100.00/100.00 |
