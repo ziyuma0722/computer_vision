@@ -1,4 +1,6 @@
 # Computer Vision Labs
+
+Labs done during the course 263-5902-00L Computer Vision at ETH Zurich
                                                     
 | Lab Title                                       | Grade         |
 |------------------------------------------------|---------------|
